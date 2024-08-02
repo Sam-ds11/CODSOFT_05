@@ -1,6 +1,4 @@
 # CODSOFT
-Certainly! Below is a README description for a GitHub repository containing all three Python programs: the Password Generator, Rock-Paper-Scissors game, and a basic Calculator.
-
 ---
 
 # Python Projects
